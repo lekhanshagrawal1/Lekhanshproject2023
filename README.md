@@ -1,2 +1,2 @@
-# Lekhanshproject2023
-Projects 
+# Hotel-Management-System
+Use of HTML, CSS , jQuery , JavaScript,BootStrap
